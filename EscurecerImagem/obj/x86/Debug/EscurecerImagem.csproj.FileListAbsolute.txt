@@ -1,0 +1,10 @@
+c:\users\thiago\documents\visual studio 2010\Projects\EscurecerImagem\EscurecerImagem\bin\Debug\EscurecerImagem.exe
+c:\users\thiago\documents\visual studio 2010\Projects\EscurecerImagem\EscurecerImagem\bin\Debug\EscurecerImagem.pdb
+c:\users\thiago\documents\visual studio 2010\Projects\EscurecerImagem\EscurecerImagem\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\thiago\documents\visual studio 2010\Projects\EscurecerImagem\EscurecerImagem\obj\x86\Debug\EscurecerImagem.exe
+c:\users\thiago\documents\visual studio 2010\Projects\EscurecerImagem\EscurecerImagem\obj\x86\Debug\EscurecerImagem.pdb
+C:\Documents and Settings\unisanta\Desktop\EscurecerImagem\EscurecerImagem\obj\x86\Debug\EscurecerImagem.exe
+C:\Documents and Settings\unisanta\Desktop\EscurecerImagem\EscurecerImagem\obj\x86\Debug\EscurecerImagem.pdb
+C:\Documents and Settings\unisanta\Desktop\EscurecerImagem\EscurecerImagem\bin\Debug\EscurecerImagem.exe
+C:\Documents and Settings\unisanta\Desktop\EscurecerImagem\EscurecerImagem\bin\Debug\EscurecerImagem.pdb
+C:\Documents and Settings\unisanta\Desktop\EscurecerImagem\EscurecerImagem\obj\x86\Debug\ResolveAssemblyReference.cache
